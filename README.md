@@ -10,6 +10,11 @@ Por exemplo, ao transferir os dados de um banco de dados para uma aplicação, q
 
 Vamos a bordo!
 
+As pastas são separadas por temas com exemplos de códigos e exercícios resolvidos no assunto.
+Este conteúdo é baseado no treinamento da professora Loiane Groner. Para mais informações:
+
+https://loiane.training/
+
 ## Vetor 
 
 É o armazenamento de elementos de um mesmo tipo em uma lista.  
