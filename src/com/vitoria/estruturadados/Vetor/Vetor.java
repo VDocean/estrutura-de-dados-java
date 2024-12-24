@@ -10,6 +10,7 @@ public class Vetor {
 		
 	}
 	
+	//adiciona valor no final do vetor
 	public boolean adiciona(String elemento) {
 		
 		if(tamanho<elementos.length) {
@@ -20,6 +21,34 @@ public class Vetor {
 		}
 		return false;
 	}
+	
+	public int tamanho() {
+		return this.tamanho;
+	}
+
+	//exibe os elementos do vetor
+	
+	@Override
+	public String toString() {
+		
+		StringBuilder s=new StringBuilder();
+		s.append("[");
+		
+		for(int i=0;i<this.tamanho-1;i++) {
+			s.append(this.elementos[i]);
+			s.append(", ");
+		}
+		
+		if (this.tamanho>0) {
+			s.append(this.elementos[this.tamanho-1]);
+		}
+		
+		s.append("]");
+		
+		return s.toString();
+	}
+	
+	
 	
 	
 	

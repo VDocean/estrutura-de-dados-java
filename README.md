@@ -5,7 +5,7 @@ Por exemplo, ao transferir os dados de um banco de dados para uma aplicação, q
 
 *É AÍ QUE ENTRA A MATÉRIA DE ESTRUTURA DE DADOS*
 
-**ESTRUTURA DE DADOS** é um conceito aplicável independente de linguaguem
+**ESTRUTURA DE DADOS** é um conceito aplicável independente de linguagem
 , porém aqui iremos nos concentrar em explicá-la com a sintaxe de java.
 
 Vamos a bordo!
@@ -15,8 +15,10 @@ Este conteúdo é baseado no treinamento da professora Loiane Groner. Para mais 
 
 https://loiane.training/
 
-## Vetor 
+## Vetor (Arrays)
 
 É o armazenamento de elementos de um mesmo tipo em uma lista.  
 É o tipo de estrutura de dados mais simples.
+
+
 
